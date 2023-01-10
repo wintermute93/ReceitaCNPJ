@@ -1,5 +1,5 @@
 # Descrição
-Este script baixa arquivos ZIP da sequencia estabelecimentos do site de dados abertos (gov.br) , descompacta os arquivos e coloca eles em uma pasta chamada "estabelecimentos" dentro de outra pasta chamada "base", registra todos os downloads e descompactação em um arquivo de log com a versão sendo a data e hora da execução e finalmente apaga os arquivos zipados.
+Este script baixa arquivos ZIP da sequencia estabelecimentos do site de dados abertos (gov.br) , descompacta os arquivos e coloca eles em uma pasta chamada "estabelecimentos" dentro de outra pasta chamada "base", registra todos os downloads e descompactação em um arquivo de log com a versão contendo data e hora da execução e finalmente apaga os arquivos zipados.
 
 ## Dependências
 - Python 3.7+
